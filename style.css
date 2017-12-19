@@ -29,12 +29,8 @@ article {
 }
 
 .box {
-  /*display: flex;*/
-  /*flex-wrap: wrap;*/
-  /*justify-content: center;*/
-  /*align-items:  center;*/
   width: 33.333%;
-  height: 237px;
+  height: 245px;
   text-align: center; 
 
 }
@@ -130,7 +126,7 @@ img {
 }
 
   img { 
-    width: 100%;
+    width: 101%;
     height: 428px;
 }
 
