@@ -30,7 +30,7 @@ article {
 
 .box {
   width: 33.333%;
-  height: 245px;
+  height: 261px;
   text-align: center; 
 
 }
@@ -148,17 +148,10 @@ h5 {
     display: block;
     background-color: #ECB15A;
     height: 140px;
-    width: 100%;
+    width: 325px;
 }
 
   .box8 {
   background-color: ;
   width: 100%;
 }
-/*
-  .box9 {
-    display: inline-flex;
-    background-color: #6D6D6D;
-    text-align: center;
-  }
-*/
